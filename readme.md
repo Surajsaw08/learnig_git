@@ -1,4 +1,6 @@
-## hello git
+## Welcome to git
 
--" i am adding this from suraj branch"
--- "in main branch "
+- This is from `dev-om` branch
+
+  - i am adding this from `suraj` branch
+  - in main branch
